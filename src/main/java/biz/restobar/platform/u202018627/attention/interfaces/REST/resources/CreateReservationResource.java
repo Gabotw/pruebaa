@@ -1,4 +1,6 @@
 package biz.restobar.platform.u202018627.attention.interfaces.REST.resources;
 
-public record CreateCommandResource() {
+import java.util.Date;
+
+public record CreateReservationResource(String nameRestaurant, Long clientId, Date dateReservation, Long countPerson) {
 }

@@ -1,4 +1,4 @@
-package com.acme.center.platform.shared.infrastructure.persistence.jpa.configuration.strategy;
+package biz.restobar.platform.u202018627.shared.infrastructure.persistence.jpa.configuration.strategy;
 
 import org.hibernate.boot.model.naming.Identifier;
 import org.hibernate.boot.model.naming.PhysicalNamingStrategy;

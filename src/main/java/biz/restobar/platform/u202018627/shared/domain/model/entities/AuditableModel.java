@@ -1,4 +1,4 @@
-package com.acme.center.platform.shared.domain.model.entities;
+package biz.restobar.platform.u202018627.shared.domain.model.entities;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.EntityListeners;

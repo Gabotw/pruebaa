@@ -1,4 +1,4 @@
-package com.acme.center.platform.shared.interfaces.rest.resources;
+package biz.restobar.platform.u202018627.shared.interfaces.rest.resources;
 
 /**
  * Message Resource
